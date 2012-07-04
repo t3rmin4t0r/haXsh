@@ -6,7 +6,7 @@ More accurately, it was written to be as fast as possible without using any
 of the flash DomainMemory APIs.
 
 The code is inherited from http://haxe.org/api/haxe/md5 adapted to work off
-ByteArrays and the inner loops have been optimized. Read LICENSE file about
+ByteArrays and the inner loops have been optimized. Read COPYING file about
 the HaXe Copyright notices.
 
 The blooddy.by functions are faster, but they run into the alchemy licensing
